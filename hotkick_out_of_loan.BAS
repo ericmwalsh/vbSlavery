@@ -15,7 +15,7 @@ Public Sub kickMvLoan
 	current_user = get_current_user
 
 	'Sets the loan_id variable to the Loan-ID using the GetCalcString API Method
-	loan_id = GetCalcString(7073)
+	loan_id = GetCalcString(7777)
 
 	Dim str_sql As String
 	
